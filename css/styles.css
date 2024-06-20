@@ -636,7 +636,7 @@ justify-content: center;
 }
 
 .modal-input:hover,
-.modal-input:focus + .modal-icon {
+.modal-input:focus + .modal-icons {
   fill: #4d5ae5;
 }
 
