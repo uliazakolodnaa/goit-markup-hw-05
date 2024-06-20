@@ -761,6 +761,7 @@ justify-content: center;
 }
 .check-icons {
   fill: #f4f4fd;
+  width: 10px;
 }
 
 .modal-link {
